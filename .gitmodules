@@ -1,3 +1,6 @@
 [submodule "1112_tarefas"]
 	path = 1112_tarefas
 	url = https://github.com/SupNL/1112_tarefas
+[submodule "11-18_senhas"]
+	path = 11-18_senhas
+	url = https://github.com/SupNL/11-18_senhas.git
