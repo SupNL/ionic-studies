@@ -4,6 +4,6 @@
 [submodule "11-18_senhas"]
 	path = 11-18_senhas
 	url = https://github.com/SupNL/11-18_senhas.git
-[submodule "11-25_senhas"]
-	path = 11-25_senhas
-	url = https://github.com/SupNL/11-25_senhas_criptografadas.git
+[submodule "11-25_senhas_criptografadas"]
+	path = 11-25_senhas_criptografadas
+	url = https://github.com/SupNL/11-25_senhas_criptografadas
