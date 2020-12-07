@@ -7,3 +7,6 @@
 [submodule "11-25_senhas_criptografadas"]
 	path = 11-25_senhas_criptografadas
 	url = https://github.com/SupNL/11-25_senhas_criptografadas
+[submodule "12-04_filmes"]
+	path = 12-04_filmes
+	url = https://github.com/SupNL/12-04_filmes.git
