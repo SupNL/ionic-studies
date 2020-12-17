@@ -10,3 +10,6 @@
 [submodule "12-04_filmes"]
 	path = 12-04_filmes
 	url = https://github.com/SupNL/12-04_filmes.git
+[submodule "12-17_login_app_senhas"]
+	path = 12-17_login_app_senhas
+	url = https://github.com/SupNL/12-17_login_app_senhas
