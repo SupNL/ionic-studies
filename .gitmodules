@@ -16,3 +16,6 @@
 [submodule "01-28_backend_node"]
 	path = 01-28_backend_node
 	url = https://github.com/SupNL/01-28_backend_node
+[submodule "02-04_aviso_page"]
+	path = 02-04_aviso_page
+	url = https://github.com/SupNL/02-04_aviso_page.git
