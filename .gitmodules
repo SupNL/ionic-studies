@@ -19,3 +19,6 @@
 [submodule "02-04_aviso_page"]
 	path = 02-04_aviso_page
 	url = https://github.com/SupNL/02-04_aviso_page.git
+[submodule "02-11_lista_avisos_final"]
+	path = 02-11_lista_avisos_final
+	url = https://github.com/SupNL/02-11_lista_avisos_final
